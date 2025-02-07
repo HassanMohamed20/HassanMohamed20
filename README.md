@@ -56,6 +56,10 @@
 
 ###
 
-<p align="left">📧 Email: hm2480078@gmail.com<br>LinkedIn https://linkedin.com/in/hassan
+<p align="left">
+  📧 <strong>Email:</strong> <a href="mailto:hm2480078@gmail.com">hm2480078@gmail.com</a><br>
+  🔗 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/hassan">Hassan Mohamed Ibrahim</a>
+</p>
+
 
 ###
