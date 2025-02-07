@@ -57,8 +57,10 @@
 ###
 
 <p align="left">
-  📧 <strong>Email:</strong> <a href="mailto:hm2480078@gmail.com">hm2480078@gmail.com</a><br>
+  📧 <strong>Email:</strong> <a href="mailto:hm2480078@gmail.com">hm2480078@gmail.com</a><br> <br>
+  📞 <strong>Phone:</strong> <a href="https://wa.me/qr/PHCTWERZPKI5O1">01156684337</a> <br> <br>
   🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/hassan-mohamed166/">Hassan Mohamed Ibrahim</a>
+  
 </p>
 
 
