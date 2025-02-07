@@ -56,6 +56,7 @@
 
 ###
 
-<p align="left">Email: hm2480078@gmail.com<br>LinkedIn:  linkedin.com/in/hassan</p>
+<p align="left">📧 [Email Me](mailto:hm2480078@gmail.com)  
+🔗 [LinkedIn Profile](https://linkedin.com/in/hassan)
 
 ###
